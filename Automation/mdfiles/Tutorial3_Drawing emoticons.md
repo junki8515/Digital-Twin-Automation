@@ -243,7 +243,7 @@ start position으로 이동한 이후, CSV파일의 좌표대로 그림을 그�
 
 ### Tutorial code
 
-[Tutorial source Link](https://github.com/serengil/deepface)
+[Tutorial source Link](https://github.com/junki8515/Digital-Twin-Automation/blob/main/Automation/source/Tutorial3_DrawingEmoticons.py)
 
 ```python
 size = 0.005
