@@ -1,6 +1,9 @@
 # Tutorial0 : Environment setting
 
+본 튜토리얼은 VS code, Anaconda, python library를 설치하기 위한 튜토리얼이다.
+
 ### Install visual studio code
+
    - VS Code는 윈도우, 맥, 리눅스에서 사용가능한 코드 편집기이다.
    - 다음의 주소를 통해 VScode를 설치할 수 있다 [Install Link](https://code.visualstudio.com/Download)
 

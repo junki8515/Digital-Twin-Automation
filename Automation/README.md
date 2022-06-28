@@ -45,20 +45,18 @@
 ​	**(2)** **mdfiles** : Repository의 설명
 
 ​	 **(3)** **source** : 본 프로젝트에 사용된 source files
-  <br/>
+
 
 ### Contents
-
+- ##### Tutorial0 : Environment setting
+  * [Reference Link](https://github.com/jw-park-980508/Digital-Twin-Automation/blob/main/Automation/mdfiles/Tutorial0_EnvironmentSetting.md)
 - ##### Tutorial1 : Classification of facial expressions
-
-  * [Reference Link](https://github.com/Yjinsu/Digital_Twin_and_Automation/blob/main/Project%232/md_files/Tutorial%20-%20Manipulator%20INDY-10%20%26%20Gripper%20VGC10.md)
-
+  * [Reference Link](https://github.com/jw-park-980508/Digital-Twin-Automation/blob/main/Automation/mdfiles/Tutorial1_ClassificationofFacialExpressions.md)
 * ##### Tutorial2 : Generate coordinate
-  * [Reference Link](https://github.com/Yjinsu/Digital_Twin_and_Automation/blob/main/Project%232/md_files/Tutorial%20-%20Manipulator%20INDY-10%20%26%20Gripper%20VGC10.md)
-
-
+  * [Reference Link](https://github.com/jw-park-980508/Digital-Twin-Automation/blob/main/Automation/mdfiles/Tutorial2_GenerateCoordinate.md)
 * ##### Tutorial3 : Drawing emoticons
-  * [Reference Link](https://github.com/Yjinsu/Digital_Twin_and_Automation/blob/main/Project%232/md_files/Tutorial%20-%20%EC%9A%B0%ED%8E%B8%20%EB%B6%84%EB%A5%98%20%EA%B3%B5%EC%A0%95%20(Pick%20%26%20Place%20using%20QR%20Code).md)
+  * [Reference Link](https://github.com/jw-park-980508/Digital-Twin-Automation/blob/main/Automation/mdfiles/Tutorial3_Drawing%20emoticons.md)
+* ##### Tutorial4 : End-effector
+  * [Reference Link](https://github.com/jw-park-980508/Digital-Twin-Automation/blob/main/Automation/mdfiles/Tutorial4_EndEffector.md)
 * ##### Demo vedio & Furtherwork
-  * [Reference Link](https://github.com/Yjinsu/Digital_Twin_and_Automation/blob/main/Project%232/md_files/Tutorial%20-%20%EC%9A%B0%ED%8E%B8%20%EB%B6%84%EB%A5%98%20%EA%B3%B5%EC%A0%95%20(Pick%20%26%20Place%20using%20QR%20Code).md)
-
+  * [Reference Link](https://github.com/jw-park-980508/Digital-Twin-Automation/blob/main/Automation/mdfiles/DemoVideo_FutureWork.md)

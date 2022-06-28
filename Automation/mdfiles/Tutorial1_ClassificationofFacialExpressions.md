@@ -2,6 +2,7 @@
 
 # Tutorial1 : Classification of facial expressions
 
+본 튜토리얼은 프로젝트 과정 중 얼굴 인식 및 표정 분류를 위한 튜토리얼이다.
 
 ### Overview
 
@@ -156,4 +157,4 @@ with mp_face_detection.FaceDetection(
 cap.release()
 ```
 
-Whole code: [Face Detection Code](https://github.com/jw-park-980508/Digital-Twin-Automation/blob/main/Automation/Code/face_detect.py)
+Whole code: [Face Detection Code](https://github.com/jw-park-980508/Digital-Twin-Automation/blob/main/Automation/source/face_detect.py)
